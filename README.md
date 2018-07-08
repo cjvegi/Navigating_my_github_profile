@@ -7,7 +7,7 @@ My portfolio: www.chiranjeevivegi.com
 Data Science Career Track at Springboard
 
 | Domain | Title/Description | Links |
-| --- | --- |
-| Data Wrangling | Working with JSON files | [Report]()
+| --- | --- | --- |
+| Data Wrangling | Working with JSON files | [Report]() |
 | SQL Queries  | Tutorail/notes taken on SQL, Mode Analytics | [Report] |
 | Data Storytelling  | Worked with kaggle survey on data science to answer few questions of our own related to data science | [Report] |
