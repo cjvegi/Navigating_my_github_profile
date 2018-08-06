@@ -11,12 +11,5 @@ Data Science Career Track at Springboard
 | Data Wrangling | Working with JSON files | [Report]() |
 | SQL Queries  | Tutorail/notes taken on SQL, Mode Analytics | [Report] |
 | Data Storytelling  | Worked with kaggle survey on data science to answer few questions of our own related to data science | [Report] |
-
-
-
-
-
-
-
-| a|                                                       Project                                                                  |b|
+| .................|                                                       Project                                          |__________|
 | Data Storytelling  | Worked with kaggle survey on data science to answer few questions of our own related to data science | [Report] |
