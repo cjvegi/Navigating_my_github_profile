@@ -11,5 +11,6 @@ Data Science Career Track at Springboard
 | Data Wrangling | Working with JSON files | [Report]() |
 | SQL Queries  | Tutorail/notes taken on SQL, Mode Analytics | [Report] |
 | Data Storytelling  | Worked with kaggle survey on data science to answer few questions of our own related to data science | [Report] |
-| .................|                                                       Project                                          |__________|
-| Data Storytelling  | Worked with kaggle survey on data science to answer few questions of our own related to data science | [Report] |
+| .................|                                                       Capstone Project   |__________|
+| Project 1  | Built a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate
+using comments from Wikipedia talk edits| [Report] |
